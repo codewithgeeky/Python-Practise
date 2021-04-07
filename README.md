@@ -2,7 +2,7 @@
 
 #xomplex
 
-"""complex_1="i'm a bolean"
+complex_1="i'm a bolean"
 
 print(len(complex_1))
 
@@ -49,10 +49,8 @@ random_name="this is a man"
 
 
 print('man' in random_name )
-"""
 
 #circle Square
-"""
 import turtle
 
 my_turtle=turtle.Turtle()
@@ -81,8 +79,6 @@ product= data[0:data.index('|')]
 
 print(product)
 
-
-"""
 
 
 
